@@ -1,0 +1,35 @@
+#totalButton {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    border-color: black;
+}
+
+#ID1 {
+    background-color: grey;
+    width: 30px;
+    height: 30px;
+    border-color: orange;
+}
+#ID2 {
+    background-color: grey;
+    width: 30px;
+    height: 30px;
+    border-color: orange;
+}
+#functionButtonAdd {
+    display:block;
+    top: 100px;
+    width: 20px;
+    height: 20px;
+    border-color: black;
+    
+}
+#functionButtonMultiply {
+    display:block;
+    top: 100px;
+    width: 20px;
+    height: 20px;
+    border-color: black;
+    
+}
